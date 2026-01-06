@@ -67,3 +67,17 @@ All preparatory materials are published openly to ensure:
 - ethical responsibility toward future partners.
 
 No claims of institutional endorsement are made or implied.
+
+## Academic Preparation Structure
+The academic preparation initiative is structured in three layers:
+
+1. Academic Core
+   Defines principles, boundaries, governance, and preparation logic.
+
+2. University Workspace Template
+   Provides a standardized structure for per-university research environments.
+
+3. Pre-Activation Workspaces
+   Prepared, inactive repositories that can be activated upon formal academic agreement.
+
+This structure allows parallel preparation with multiple institutions while preserving clarity, responsibility, and institutional integrity.
